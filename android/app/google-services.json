@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "863774657605",
+    "firebase_url": "https://bloodinneed999.firebaseio.com",
+    "project_id": "bloodinneed999",
+    "storage_bucket": "bloodinneed999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863774657605:android:6e42e7ab6bfc3fef31672c",
+        "android_client_info": {
+          "package_name": "dunkeydev.bloodinneed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863774657605-9cv6g0il0n4nks7nvliad8opp0jl18e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dunkeydev.bloodinneed",
+            "certificate_hash": "1d18fdcc9ef90ad9ce462f3c22463456f55d7c36"
+          }
+        },
+        {
+          "client_id": "863774657605-gpg55qtbi2uof2p58g8go12rakf94jo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dunkeydev.bloodinneed",
+            "certificate_hash": "683972f39729c19a0402d7a23a7fee64278933b3"
+          }
+        },
+        {
+          "client_id": "863774657605-o24sv9va3h5khc1h4bvqamarhphd3dc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dunkeydev.bloodinneed",
+            "certificate_hash": "7c307e8ba670b88ff0efbd6115f2f59930689e59"
+          }
+        },
+        {
+          "client_id": "863774657605-hoq28a2mi56647dfuu1j899765m14bd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4pb3Meu1rXkg_fqGmNtiDQHyvWsOMmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863774657605-hoq28a2mi56647dfuu1j899765m14bd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5591848076224470~1131330646"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863774657605:android:f12393ec3104172a31672c",
+        "android_client_info": {
+          "package_name": "root.bloodinneed.devs.blood_in_need"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863774657605-hoq28a2mi56647dfuu1j899765m14bd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4pb3Meu1rXkg_fqGmNtiDQHyvWsOMmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863774657605-hoq28a2mi56647dfuu1j899765m14bd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
